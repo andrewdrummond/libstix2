@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/freetaxii/libstix2/objects/report"
+	"github.com/andrewdrummond/libstix2/objects/report"
 )
 
 func main() {

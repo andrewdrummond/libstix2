@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/freetaxii/libstix2/defs"
-	"github.com/freetaxii/libstix2/objects/baseobject"
+	"github.com/andrewdrummond/libstix2/defs"
+	"github.com/andrewdrummond/libstix2/objects/baseobject"
 )
 
 // ----------------------------------------------------------------------

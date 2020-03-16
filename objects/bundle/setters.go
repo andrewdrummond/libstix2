@@ -5,7 +5,7 @@
 
 package bundle
 
-import "github.com/freetaxii/libstix2/objects"
+import "github.com/andrewdrummond/libstix2/objects"
 
 // ----------------------------------------------------------------------
 // Public Methods

@@ -6,10 +6,10 @@
 package collections
 
 import (
-	"github.com/freetaxii/libstix2/objects/taxii/envelope"
-	"github.com/freetaxii/libstix2/objects/taxii/manifest"
-	"github.com/freetaxii/libstix2/objects/properties"
-	"github.com/freetaxii/libstix2/objects/taxii/versions"
+	"github.com/andrewdrummond/libstix2/objects/taxii/envelope"
+	"github.com/andrewdrummond/libstix2/objects/taxii/manifest"
+	"github.com/andrewdrummond/libstix2/objects/properties"
+	"github.com/andrewdrummond/libstix2/objects/taxii/versions"
 )
 
 // ----------------------------------------------------------------------

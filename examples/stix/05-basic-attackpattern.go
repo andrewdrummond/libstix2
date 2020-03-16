@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/freetaxii/libstix2/objects/attackpattern"
+	"github.com/andrewdrummond/libstix2/objects/attackpattern"
 )
 
 func main() {

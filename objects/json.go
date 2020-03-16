@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/freetaxii/libstix2/objects/properties"
+	"github.com/andrewdrummond/libstix2/objects/properties"
 )
 
 // ----------------------------------------------------------------------

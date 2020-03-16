@@ -8,7 +8,7 @@ package courseofaction
 import (
 	"encoding/json"
 
-	"github.com/freetaxii/libstix2/defs"
+	"github.com/andrewdrummond/libstix2/defs"
 )
 
 // ----------------------------------------------------------------------

@@ -11,11 +11,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/freetaxii/libstix2/defs"
-	"github.com/freetaxii/libstix2/resources/collections"
-	"github.com/freetaxii/libstix2/resources/manifest"
-	"github.com/freetaxii/libstix2/stixid"
-	"github.com/freetaxii/libstix2/timestamp"
+	"github.com/andrewdrummond/libstix2/defs"
+	"github.com/andrewdrummond/libstix2/resources/collections"
+	"github.com/andrewdrummond/libstix2/resources/manifest"
+	"github.com/andrewdrummond/libstix2/stixid"
+	"github.com/andrewdrummond/libstix2/timestamp"
 )
 
 // ----------------------------------------------------------------------

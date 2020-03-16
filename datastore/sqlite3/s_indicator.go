@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/freetaxii/libstix2/objects/indicator"
+	"github.com/andrewdrummond/libstix2/objects/indicator"
 )
 
 // ----------------------------------------------------------------------

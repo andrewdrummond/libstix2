@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/freetaxii/libstix2/defs"
+	"github.com/andrewdrummond/libstix2/defs"
 )
 
 /*

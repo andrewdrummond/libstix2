@@ -5,7 +5,7 @@
 
 package tool
 
-import "github.com/freetaxii/libstix2/resources"
+import "github.com/andrewdrummond/libstix2/resources"
 
 // ----------------------------------------------------------------------
 // Public Methods

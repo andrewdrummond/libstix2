@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/freetaxii/libstix2/resources"
+	"github.com/andrewdrummond/libstix2/resources"
 )
 
 // ----------------------------------------------------------------------

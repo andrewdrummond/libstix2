@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/freetaxii/libstix2/objects/envelope"
-	"github.com/freetaxii/libstix2/objects/indicator"
+	"github.com/andrewdrummond/libstix2/objects/envelope"
+	"github.com/andrewdrummond/libstix2/objects/indicator"
 )
 
 func main() {

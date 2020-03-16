@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/freetaxii/libstix2/objects/taxii/apiroot"
+	"github.com/andrewdrummond/libstix2/objects/taxii/apiroot"
 )
 
 func main() {
